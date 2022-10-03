@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd439625-fec3-426c-a8fc-4f43dd107c4d" name="Changes" comment="Versión inicial">
+    <list default="true" id="fd439625-fec3-426c-a8fc-4f43dd107c4d" name="Changes" comment="Versión donde falta que se añadan filas a la tabla automáticamente.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebSite.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSite.html" afterDir="false" />
     </list>
@@ -49,7 +49,8 @@
       <updated>1664450079169</updated>
       <workItem from="1664524850174" duration="384000" />
       <workItem from="1664788403808" duration="2424000" />
-      <workItem from="1664791223784" duration="2761000" />
+      <workItem from="1664791223784" duration="2885000" />
+      <workItem from="1664810917874" duration="3065000" />
     </task>
     <task id="LOCAL-00001" summary="Versión inicial">
       <created>1664524905525</created>
@@ -58,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664524905525</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Versión donde falta que se añadan filas a la tabla automáticamente.">
+      <created>1664794933033</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664794933033</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,7 +85,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Versión inicial" />
-    <option name="LAST_COMMIT_MESSAGE" value="Versión inicial" />
+    <MESSAGE value="Versión donde falta que se añadan filas a la tabla automáticamente." />
+    <option name="LAST_COMMIT_MESSAGE" value="Versión donde falta que se añadan filas a la tabla automáticamente." />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
