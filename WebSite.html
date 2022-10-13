@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Small website with Bootstrap and JQuery</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
@@ -27,27 +27,21 @@
 </head>
 <body>
 
-<p>Escribe el nombre de usuario de GitHub: <input type = "text" id = "box1"></p>
+<div class = "container">
+    <h3 class="bg-success">Esta página web sirve para ver los repositorios de un usuario determinado</h3>
+    <h5>Escribe el nombre de usuario de GitHub: <input type = "text" id = "box1"></h5>
+    <button class = "lead" id = "btn1">Ver los repositorios</button>
 
-<button id = "btn1">Ver los repositorios</button>
-
-<p id = "text1"></p>
-<p id = "text2"></p>
-
-<div class="container">
     <table class="table table-striped">
         <tr>
             <td><strong>Nombre</strong></td>
             <td><strong>Descripción</strong></td>
             <td><strong>Numero de seguidores</strong></td>
         </tr>
-
         <tbody id = "taula">
         </tbody>
     </table>
-
 </div>
-
 
 </body>
 </html>

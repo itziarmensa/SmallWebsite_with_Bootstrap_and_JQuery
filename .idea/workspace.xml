@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd439625-fec3-426c-a8fc-4f43dd107c4d" name="Changes" comment="Versión donde falta que se añadan filas a la tabla automáticamente.">
+    <list default="true" id="fd439625-fec3-426c-a8fc-4f43dd107c4d" name="Changes" comment="Versión final, falta ponerlo bonito">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebSite.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebSite.html" afterDir="false" />
     </list>
@@ -35,7 +35,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/OneDrive/Escritorio/Uni/4t/1r quatri/DSA/Unitat 3-HTML5 y JS/SmallWebsite&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/User/OneDrive/Escritorio/Uni/4t/1r quatri/DSA/Unitat 2-OO, Java/ejercicioColas&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
@@ -50,7 +50,10 @@
       <workItem from="1664524850174" duration="384000" />
       <workItem from="1664788403808" duration="2424000" />
       <workItem from="1664791223784" duration="2885000" />
-      <workItem from="1664810917874" duration="3065000" />
+      <workItem from="1664810917874" duration="3122000" />
+      <workItem from="1665053814475" duration="752000" />
+      <workItem from="1665384030510" duration="15000" />
+      <workItem from="1665652269427" duration="663000" />
     </task>
     <task id="LOCAL-00001" summary="Versión inicial">
       <created>1664524905525</created>
@@ -66,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664794933033</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Versión final, falta ponerlo bonito">
+      <created>1664814041749</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664814041749</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,7 +96,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Versión inicial" />
     <MESSAGE value="Versión donde falta que se añadan filas a la tabla automáticamente." />
-    <option name="LAST_COMMIT_MESSAGE" value="Versión donde falta que se añadan filas a la tabla automáticamente." />
+    <MESSAGE value="Versión final, falta ponerlo bonito" />
+    <option name="LAST_COMMIT_MESSAGE" value="Versión final, falta ponerlo bonito" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
